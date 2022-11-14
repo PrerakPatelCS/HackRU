@@ -4,8 +4,8 @@ import TicTacToe as game
 import DrawBoard as board
 
 
-BOARD_SIZE = 2
-BOARD_INCREMENT = 7
+BOARD_SIZE = 3
+BOARD_INCREMENT = 2
 SLEEP = 1
 
 
