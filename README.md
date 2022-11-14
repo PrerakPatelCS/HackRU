@@ -37,6 +37,8 @@ SLEEP = 1
 These variables can be changed to show the TicTacToe board work for different size boards and the sleep can be used to
 see the boards for a longer amount of time. 
 
+## HackRU demo (older version)
+[TwitchPlays TicTacToe](https://youtu.be/WBFWdiT3YVw)
 
 # Twitch Plays hackRU
 twitch_plays_hackru is a Python library for twitch chatters to be able to vote on commands in a game.
